@@ -3,7 +3,6 @@
 A Flutter home screen for a furniture shopping app with a clean and modern design.
 
 ## 🌟 Features
-- Gradient header with app name and description
 - Carousel slider for categories with images
 - Grid view with trending furniture items
 - Drawer menu with custom icons and white background
